@@ -1,0 +1,18 @@
+Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
+IMPLEMENTATION OF THE BACK END OF THE COMPILER
+
+Date :
+Aim :
+To write a program to implement the back end of the compiler.
+
+ALGORITHM
+Start the program.
+Get the three variables from statements and stored in the text file k.txt.
+Compile the program and give the path of the source file.
+Execute the program.
+Target code for the given statement is produced.
+Stop the program.
+PROGRAM
+OUTPUT
+Result
+The back end of the compiler is implemented successfully, and the output is verified.
